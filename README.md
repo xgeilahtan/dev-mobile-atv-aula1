@@ -19,7 +19,7 @@ Execute a partir da raiz do projeto:
 
 ```bash
 node ex01/index.js
-``
+```
 
 #### Exercício 2: ArrayUtils com TypeScript
 Este exercício utiliza módulos ES (ts-node-esm).
