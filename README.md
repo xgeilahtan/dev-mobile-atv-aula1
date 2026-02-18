@@ -1,8 +1,8 @@
 # Atividade 1
 ## Disciplina: Desenvolvimento Mobile
 
-**Nome:** Nathalie Gonçalves Xavier
-**Prontuário:** GU3046443
+#### **Nome:** Nathalie Gonçalves Xavier
+#### **Prontuário:** GU3046443
 ---
 
 ### Instalação
