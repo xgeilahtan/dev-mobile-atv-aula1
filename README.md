@@ -5,7 +5,7 @@
 **Prontuário:** GU3046443
 ---
 
-### 📦 Instalação
+### Instalação
 Antes de executar, certifique-se de instalar as dependências em cada pasta (caso ainda não tenha feito):
 
 ```bash
@@ -13,7 +13,7 @@ Antes de executar, certifique-se de instalar as dependências em cada pasta (cas
 cd ex02 && npm install && cd ../ex03 && npm install && cd ..
 ```
 
-### 🚀 Como executar
+### Como executar
 #### Exercício 1: Funções em JavaScript
 Execute a partir da raiz do projeto:
 
